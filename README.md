@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shrihakke14@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](portfolio link)**
+- 🔭 Know more about me **[Portfolio](https://shridhar1998.github.io/)**
 
 - 👨‍🎓 Check out my **[Resume Here](resume link)**
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-//<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
+<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
 <br/>
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
+
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
@@ -91,10 +91,10 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/shridhar-hakke-060680170/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:shrihakke14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://shridhar1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
- <a href = "" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href = "" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+ 
+
 </p>
                                                                                                                        
  <br/>   
