@@ -24,7 +24,7 @@
 
 - 🔭 Know more about me **[Portfolio](https://shridhar1998.github.io/)**
 
-- 👨‍🎓 Check out my **[Resume Here](https://drive.google.com/file/d/1Rf7oiWW353QPrdFV82jx44JIjVGwNGCE/view?usp=sharing)**
+- 👨‍🎓 Check out my **[Resume](https://drive.google.com/file/d/1Rf7oiWW353QPrdFV82jx44JIjVGwNGCE/view?usp=sharing)**
 
 - ⚡ Fun fact **I love bike riding and watching movies**
 
