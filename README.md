@@ -28,6 +28,17 @@
 
 - ⚡ Fun fact **I love bike riding and watching movies**
 
+ ## 🌐 Socials
+<p align="center">
+<a href = "https://www.linkedin.com/in/shridhar-hakke-060680170/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:shrihakke14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://shridhar1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://drive.google.com/file/d/1jwwAXID33Ka8wfCijRe5hUCr19J4j0XD/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+</p>
+                                                                                                                       
+ <br/>
+
+
 ## 🚀 Languages and Tools:
 <div align="center">
  
@@ -87,17 +98,7 @@
                
 <br>
                                                                                                                                               
-## 🌐 Socials
-<p align="left">
-<a href = "https://www.linkedin.com/in/shridhar-hakke-060680170/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto:shrihakke14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://shridhar1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
-<a href="https://drive.google.com/file/d/1jwwAXID33Ka8wfCijRe5hUCr19J4j0XD/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
- 
-
-</p>
-                                                                                                                       
- <br/>   
+   
                                                                                                                        
 ## 📊 My Github Stats
    <br/>   
@@ -127,9 +128,10 @@
 <br/>
 
 <br/>
- 
+
 ## ❤ Views and Followers
 <a href="https://github.com/Shridhar1998/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shridhar1998">
 </a>
 <a href="https://github.com/Shridhar1998?tab=followers"><img src="https://img.shields.io/github/followers/Shridhar1998?label=Followers&style=social" alt="GitHub Badge"></a>
+
