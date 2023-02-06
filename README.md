@@ -113,7 +113,7 @@
 </p>                                                                                                                                              
 
   <br/>
-     <p align="center">                                                                                                 
+     <p align="center" padding="1rem">                                                                                                 
     <a href="https://github-stats-alpha.vercel.app/api?username=Shridhar1998"><img alt="Shridhar1998's Github Stats" src="https://github-stats-alpha.vercel.app/api?username=Shridhar1998" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
