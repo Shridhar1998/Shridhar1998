@@ -16,7 +16,7 @@
 
 - 🌱 Learnt **Full Stack Web Development from Masai School**
 
-- 👯 I’m looking to work as **Full Stack Web Developer**
+- 👯 I’m looking to work as **Full Stack Web Developer/ Frontend web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Shridhar1998?tab=repositories)**
 
