@@ -36,7 +36,7 @@
 <a href="https://drive.google.com/file/d/1jwwAXID33Ka8wfCijRe5hUCr19J4j0XD/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
 </p>
                                                                                                                        
- <br/>
+
 
 
 ## 🚀 Languages and Tools:
