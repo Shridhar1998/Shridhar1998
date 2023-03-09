@@ -89,10 +89,6 @@
 
 
 <br/>
-
-
-
-
                
 <br>
                                                                                                                                               
@@ -125,7 +121,7 @@
 
 <br/>
 
-## ❤ Views and Followers
+##   ❤ Views and Followers
 <a href="https://github.com/Shridhar1998/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shridhar1998">
 </a>
