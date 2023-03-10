@@ -1,4 +1,7 @@
-
+<img
+     src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" alt="shri" />
+<h1 align="center">
+ 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="13">I'm SHRIDHAR R HAKKE<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"/></h1>
 
 <div align="center">
