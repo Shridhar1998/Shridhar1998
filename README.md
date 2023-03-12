@@ -13,8 +13,6 @@
 <h3 align="left">- Currently looking for a new opprtunity 🤖</h3>
 </div>
 <br/>
-
-
 ## 🙋‍♂️ About Me
 
 - 🌱 Learnt **Full Stack Web Development from Masai School**
