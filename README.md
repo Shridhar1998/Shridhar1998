@@ -1,13 +1,15 @@
 # Hi 👋 I'm **Shridhar R. Hakke**
-**MERN & Salesforce Developer • CRM Solutions Expert • Quick Learner**
+**Salesforce Developer • CRM Solutions Expert • Apex & LWC Developer • Quick Learner**
 
 ---
 
 ## 🌱 About Me
-- 🌐 Full‑Stack Web Developer specialized in **MERN** (MongoDB, Express, React, Node.js) with 2000+ hrs of hands‑on coding.
-- 🚀 Transitioned into **Salesforce Development**, building scalable CRM solutions using **Apex**, **LWC**, and integrations.
-- 🎯 Skilled in writing clean, efficient, and user‑centric code across web and Salesforce ecosystems.
-- 📚 Lifelong learner—active on **Trailhead**, passionate about expanding my Salesforce certification portfolio and community contributions.
+
+* ☁️ **Salesforce Developer** with hands-on experience building scalable CRM solutions using **Apex, LWC, SOQL, Triggers, Flows, and Salesforce integrations**.
+* 🚀 Experienced in developing **Sales Cloud and Service Cloud** solutions, focusing on automation, custom business logic, reusable Lightning Web Components, and system integrations.
+* 🎯 Skilled in writing **clean, efficient, scalable, and user-focused solutions** while following Salesforce best practices, security, and governor limits.
+* 🔗 Experienced with **REST/SOAP integrations, APIs, asynchronous Apex, and Salesforce development tools** to deliver end-to-end solutions.
+* 📚 Lifelong learner and active **Trailhead** enthusiast, continuously expanding my Salesforce knowledge, certifications, and expertise in **Sales Cloud, Service cloud and Agentforce**.
 
 ---
 
@@ -32,11 +34,6 @@ Git • GitHub • Postman • VSCode • Heroku • Netlify • Vercel • Sale
 ---
 
 ## 🧩 Projects
-
-### 🌐 Web App Demos
-*(keep a minimal selection of your standout MERN projects or optionally move detailed list to GitHub)*
-- **Glamour Clone** – E‑commerce site using React/Redux, Node, Express, MongoDB.
-- **MyFitness App** – Fitness tracker with user auth, backend APIs, Chakra UI.
 
 ### ⚙️ Salesforce Projects
 *(from LinkedIn/Trailhead, add your real deployments and use cases)*
